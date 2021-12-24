@@ -1,2 +1,0 @@
-# icanwin
-Learning GIT
